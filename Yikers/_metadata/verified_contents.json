@@ -1,0 +1,24 @@
+[
+  {
+    "description": "treehash per file",
+    "signed_content": {
+      "payload": "eyJpdGVtX2lkIjoiam9oY2Jna2xqZGJlYmJsb2FrY29sbHBtaWdwaWdrcGQiLCJpdGVtX3ZlcnNpb24iOiIxLjU3IiwicHJvdG9jb2xfdmVyc2lvbiI6MSwiY29udGVudF9oYXNoZXMiOlt7ImZvcm1hdCI6InRyZWVoYXNoIiwiZGlnZXN0Ijoic2hhMjU2IiwiYmxvY2tfc2l6ZSI6NDA5NiwiaGFzaF9ibG9ja19zaXplIjo0MDk2LCJmaWxlcyI6W3sicGF0aCI6ImJhY2tncm91bmQuanMiLCJyb290X2hhc2giOiJVNHhSbEItQTIzOWh5NlN6S0VfOElYd24tRjdrMkx1YjE1Qmt3UERxeE1BIn0seyJwYXRoIjoiaWNvbjEyOC5wbmciLCJyb290X2hhc2giOiJtTlVjZ290TDQzQ3FJeGZfb291VVlxVFR0V3dtTmc5cGJaenloVmhObVRjIn0seyJwYXRoIjoiaWNvbjE2LnBuZyIsInJvb3RfaGFzaCI6Ik5QZFBjV3Y3SG9HMGlnX05pOFBUcFVMdzBlX3JrMlNjb0VWOVBxRGhnbUUifSx7InBhdGgiOiJpY29uNDgucG5nIiwicm9vdF9oYXNoIjoiODhwRnZvS3BNXzBTSVB1S0xzSjZtTVJGeEhiRlVMb2dad2pvdGRoTlFhbyJ9LHsicGF0aCI6ImxheW91dC5qcyIsInJvb3RfaGFzaCI6IjVwMVVoQUZqTVdzbnhOUUh4d0dBZEFZU1JBQU5nMEV0Q0M4X05jdUhPUmMifSx7InBhdGgiOiJtYW5pZmVzdC5qc29uIiwicm9vdF9oYXNoIjoiaFBnYkp0SWFKRE5WZUpOZnlfOEhlR0lZdVNJWmVuaTktdFdQcFBBZ0c2TSJ9LHsicGF0aCI6InNjcmlwdC5qcyIsInJvb3RfaGFzaCI6InREUVFWdk1VUjBFb3ltM1JnTTFLN3JPLTVIN1V6eTNhNzZnQUVfZWpzWWcifV19XX0",
+      "signatures": [
+        {
+          "header": {
+            "kid": "publisher"
+          },
+          "protected": "eyJhbGciOiJSUzI1NiJ9",
+          "signature": "IhhmOiVfLCAWqsL302ahus0vf5ztmzI_qQPZJzFcUsBKL7UTDqYFlKkOWlh2FHGGuLQE_tvrqmsJl6WHiDv5Z5OfBWYYY9Jp5RerwsmsTV-mMViwp9XG4XaqBe09AGafh4welkN-Z-VTw0eRjJcZ9GKIx3GSnVjqbXVuy07zZm--cujtdhqtXvfmZUv1p7oWuQ6adVCBbRx8QuGC5nWMdIdV2lvxwcxEsAbGVVAe875jvOuiy5MinGTzfmlZdSfxW4CQrjjakLftk5EO0dzi1_XW_xp-cuAn12AHZ48LHVqlwgTrhLdW2EzlS9tBVBwgFeuHQr4ZpedY3mBRAm0SDA"
+        },
+        {
+          "header": {
+            "kid": "webstore"
+          },
+          "protected": "eyJhbGciOiJSUzI1NiJ9",
+          "signature": "oYWQeMoSLrDqExEEywNbqNF4X-9VTDo3TbSMg9TPIE6sHbyeve3nGK4pOmRf_pvc-DhLoe9sHf8Ju1cCVkK9hkmV7_pQ38WxYkozlKOYjYVK1Bo5kgQbSVELBAm6vuF1dtmFId7P09H8KdHLSGpJwIXny3-rbprzIrUhRW30LUjPkWIXsWoQoK_UnkMaBxJq4djeVf0eDocIo3e7GbznFNUzoIAwZqxZ7HL0pl0yrx0ltjKnm3jTc3t26XfeC8Fe6sFCwauPZTP3S2o8FuRguyQ_ZrPIrPTGmz4Lfihgi0NmXBZ7NR_7ibmPK1d-khLToOvF7d5lpZx5lk_S10M0TQ"
+        }
+      ]
+    }
+  }
+]
